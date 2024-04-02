@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Collection>
+	<Person>
+		<Name>name</Name>
+		<Coordinates>
+			<x>21</x>
+			<y>21.0</y>
+		</Coordinates>
+		<creationDate>Tue Apr 05 00:25:11 MSK 2022</creationDate>
+		<Height>21</Height>
+		<eyeColor>RED</eyeColor>
+		<hairColor>RED</hairColor>
+		<nationality>USA</nationality>
+		<Location>
+			<x>21</x>
+			<y>21.0</y>
+			<z>21.0</z>
+		</Location>
+	</Person>
+</Collection>
